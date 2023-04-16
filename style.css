@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.divs {
+    height: 25px;
+    width: 25px;
+    border: 2px solid black;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 490px;
+    margin-left: -12px;
+}
